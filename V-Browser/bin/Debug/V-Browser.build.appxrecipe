@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ITALO-PC</Machine>
+    <WindowsUser>ITALO</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4338Epic94.V-Browser</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\bin\Debug\V-Browser.exe">
+      <PackagePath>V-Browser.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\packages\MyToolkit.2.3.7.0\lib\portable-net45+wp8+win8+wpa81\MyToolkit.dll">
+      <PackagePath>MyToolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\packages\MyToolkit.Extended.2.3.7.0\lib\portable-wpa81+win8\MyToolkit.Extended.dll">
+      <PackagePath>MyToolkit.Extended.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\packages\Newtonsoft.Json.6.0.5\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\mraidApi.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\mraidApi.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Assets\Add.png">
+      <PackagePath>Assets\Add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Assets\video-file-icon.png">
+      <PackagePath>Assets\video-file-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\AcheProvasTile.png">
+      <PackagePath>Html\img\AcheProvasTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\Bing-logo.png">
+      <PackagePath>Html\img\Bing-logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\dailymotion-logo.png">
+      <PackagePath>Html\img\dailymotion-logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\logogv.png">
+      <PackagePath>Html\img\logogv.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\seamless_paper_texture.png">
+      <PackagePath>Html\img\seamless_paper_texture.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\twitter.png">
+      <PackagePath>Html\img\twitter.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\wiki-logo.png">
+      <PackagePath>Html\img\wiki-logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\yahoo.png">
+      <PackagePath>Html\img\yahoo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\YouTube_logo.png">
+      <PackagePath>Html\img\YouTube_logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\en\speed dial\index.html">
+      <PackagePath>Html\en\speed dial\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\pt\speed dial\index.html">
+      <PackagePath>Html\pt\speed dial\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\facebook-logo.jpg">
+      <PackagePath>Html\img\facebook-logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\Google-logo.jpg">
+      <PackagePath>Html\img\Google-logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\vimeo_logo.jpg">
+      <PackagePath>Html\img\vimeo_logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\W1.jpg">
+      <PackagePath>Html\img\W1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\W2.jpg">
+      <PackagePath>Html\img\W2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\W3.jpg">
+      <PackagePath>Html\img\W3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\W4.jpg">
+      <PackagePath>Html\img\W4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\Html\img\W5.jpg">
+      <PackagePath>Html\img\W5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\bin\Debug\Controls\Navigator.xbf">
+      <PackagePath>Controls\Navigator.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\bin\Debug\Controls\SpeedDial.xbf">
+      <PackagePath>Controls\SpeedDial.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\bin\Debug\Controls\Tab.xbf">
+      <PackagePath>Controls\Tab.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\bin\Debug\Downloads.xbf">
+      <PackagePath>Downloads.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\bin\Debug\File.xbf">
+      <PackagePath>File.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\bin\Debug\V-Browser.xr.xml">
+      <PackagePath>V-Browser.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\packages\MyToolkit.Extended.2.3.7.0\lib\portable-wpa81+win8\MyToolkit.Extended\MyToolkit.Extended.xr.xml">
+      <PackagePath>MyToolkit.Extended\MyToolkit.Extended.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\packages\MyToolkit.Extended.2.3.7.0\lib\portable-wpa81+win8\MyToolkit.Extended\Controls\DatePicker.xbf">
+      <PackagePath>MyToolkit.Extended\Controls\DatePicker.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\packages\MyToolkit.Extended.2.3.7.0\lib\portable-wpa81+win8\MyToolkit.Extended\Controls\TimePicker.xbf">
+      <PackagePath>MyToolkit.Extended\Controls\TimePicker.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\packages\MyToolkit.Extended.2.3.7.0\lib\portable-wpa81+win8\MyToolkit.Extended\Themes\generic.xbf">
+      <PackagePath>MyToolkit.Extended\Themes\generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\packages\MyToolkit.Extended.2.3.7.0\lib\portable-wpa81+win8\MyToolkit.Extended\UI\Popups\ListPickerBox.xbf">
+      <PackagePath>MyToolkit.Extended\UI\Popups\ListPickerBox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

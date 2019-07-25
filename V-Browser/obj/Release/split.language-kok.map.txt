@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-kok"
+"ResourceDimensions"		"language-kok"
+
+[Files]
+"C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\obj\Release\split.language-kok.pri"			"resources.pri"

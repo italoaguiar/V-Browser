@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-prs-arab"
+"ResourceDimensions"		"language-prs"
+
+[Files]
+"C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\obj\Release\split.language-prs-arab.pri"			"resources.pri"

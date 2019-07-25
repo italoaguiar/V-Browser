@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ka"
+"ResourceDimensions"		"language-ka"
+
+[Files]
+"C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\obj\Release\split.language-ka.pri"			"resources.pri"

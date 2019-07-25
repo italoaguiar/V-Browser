@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-sr-latn"
+"ResourceDimensions"		"language-sr-latn-rs"
+
+[Files]
+"C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\obj\Release\split.language-sr-latn.pri"			"resources.pri"

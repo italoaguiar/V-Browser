@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-nb"
+"ResourceDimensions"		"language-nb"
+
+[Files]
+"C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\obj\Release\split.language-nb.pri"			"resources.pri"

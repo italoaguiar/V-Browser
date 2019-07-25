@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-tt-cyrl"
+"ResourceDimensions"		"language-tt-ru"
+
+[Files]
+"C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\obj\Release\split.language-tt-cyrl.pri"			"resources.pri"

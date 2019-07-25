@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ca"
+"ResourceDimensions"		"language-ca-es"
+"ResourceDimensions"		"language-ca"
+
+[Files]
+"C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\obj\Release\split.language-ca.pri"			"resources.pri"

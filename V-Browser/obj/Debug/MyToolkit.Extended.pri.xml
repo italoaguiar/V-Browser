@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="MyToolkit.Extended" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="MyToolkit.Extended">
+				<NamedResource name="MyToolkit.Extended.xr.xml" uri="ms-resource://MyToolkit.Extended/Files/MyToolkit.Extended/MyToolkit.Extended.xr.xml">
+					<Candidate type="Path">
+						<Value>MyToolkit.Extended\MyToolkit.Extended.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Controls">
+					<NamedResource name="DatePicker.xbf" uri="ms-resource://MyToolkit.Extended/Files/MyToolkit.Extended/Controls/DatePicker.xbf">
+						<Candidate type="Path">
+							<Value>MyToolkit.Extended\Controls\DatePicker.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TimePicker.xbf" uri="ms-resource://MyToolkit.Extended/Files/MyToolkit.Extended/Controls/TimePicker.xbf">
+						<Candidate type="Path">
+							<Value>MyToolkit.Extended\Controls\TimePicker.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="generic.xbf" uri="ms-resource://MyToolkit.Extended/Files/MyToolkit.Extended/Themes/generic.xbf">
+						<Candidate type="Path">
+							<Value>MyToolkit.Extended\Themes\generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="UI">
+					<ResourceMapSubtree name="Popups">
+						<NamedResource name="ListPickerBox.xbf" uri="ms-resource://MyToolkit.Extended/Files/MyToolkit.Extended/UI/Popups/ListPickerBox.xbf">
+							<Candidate type="Path">
+								<Value>MyToolkit.Extended\UI\Popups\ListPickerBox.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

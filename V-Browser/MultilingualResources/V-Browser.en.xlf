@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en" original="V-Browser_Multilingual.prilog.xml" tool-id="MultilingualAppToolkit" product-name="V-Browser" product-version="1.0.0.0" build-num="0">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="3.1.1085.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="Resources">
+        <trans-unit id="Resources\Warning" translate="yes" xml:space="preserve">
+          <source>Warning</source>
+          <target state="new">Warning</target>
+        </trans-unit>
+        <trans-unit id="Resources\SearchBox\Text" translate="yes" xml:space="preserve">
+          <source>Search the web</source>
+          <target state="new">Search the web</target>
+        </trans-unit>
+        <trans-unit id="Resources\TXTBGDescription\Text" translate="yes" xml:space="preserve">
+          <source>Use an existing background.</source>
+          <target state="new">Use an existing background.</target>
+        </trans-unit>
+        <trans-unit id="Resources\TXTBGURL\Text" translate="yes" xml:space="preserve">
+          <source>Using a URL</source>
+          <target state="new">Using a URL</target>
+        </trans-unit>
+        <trans-unit id="Resources\TXTChangeBackground\Text" translate="yes" xml:space="preserve">
+          <source>Change Background</source>
+          <target state="new">Change Background</target>
+        </trans-unit>
+        <trans-unit id="Resources\Privacy" translate="yes" xml:space="preserve">
+          <source>Privacy Policy</source>
+          <target state="new">Privacy Policy</target>
+        </trans-unit>
+        <trans-unit id="Resources\LaunchFileError" translate="yes" xml:space="preserve">
+          <source>Could not FIND the downloaded video. Make sure your antivirus is not parsing the file.</source>
+          <target state="new">Could not FIND the downloaded video. Make sure your antivirus is not parsing the file.</target>
+        </trans-unit>
+        <trans-unit id="Resources\IncompatibleFile" translate="yes" xml:space="preserve">
+          <source>This file can not be viewed in v-browser.</source>
+          <target state="new">This file can not be viewed in v-browser.</target>
+        </trans-unit>
+        <trans-unit id="Resources\FileType\Text" translate="yes" xml:space="preserve">
+          <source>type</source>
+          <target state="new">type</target>
+        </trans-unit>
+        <trans-unit id="Resources\FileName\Text" translate="yes" xml:space="preserve">
+          <source>file name</source>
+          <target state="new">file name</target>
+        </trans-unit>
+        <trans-unit id="Resources\DownloadSuccessMessage" translate="yes" xml:space="preserve">
+          <source>Your download is available in the download manager.</source>
+          <target state="new">Your download is available in the download manager.</target>
+        </trans-unit>
+        <trans-unit id="Resources\DownloadSuccess" translate="yes" xml:space="preserve">
+          <source>Download complete</source>
+          <target state="new">Download complete</target>
+        </trans-unit>
+        <trans-unit id="Resources\DownloadManager\Text" translate="yes" xml:space="preserve">
+          <source>Download Manager</source>
+          <target state="new">Download Manager</target>
+        </trans-unit>
+        <trans-unit id="Resources\DownloadFile" translate="yes" xml:space="preserve">
+          <source>Download File</source>
+          <target state="new">Download File</target>
+        </trans-unit>
+        <trans-unit id="Resources\DownloadErrorMessage" translate="yes" xml:space="preserve">
+          <source>An error occurred while trying to download this file.</source>
+          <target state="new">An error occurred while trying to download this file.</target>
+        </trans-unit>
+        <trans-unit id="Resources\DownloadError" translate="yes" xml:space="preserve">
+          <source>Download Failed</source>
+          <target state="new">Download Failed</target>
+        </trans-unit>
+        <trans-unit id="Resources\DefaultBrowser" translate="yes" xml:space="preserve">
+          <source>Open in default Browser</source>
+          <target state="new">Open in default Browser</target>
+        </trans-unit>
+        <trans-unit id="Resources\Delete\Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="Resources\CloseTab\Text" translate="yes" xml:space="preserve">
+          <source>Close this tab</source>
+          <target state="new">Close this tab</target>
+        </trans-unit>
+        <trans-unit id="Resources\AddThumbSpeedDial\Text" translate="yes" xml:space="preserve">
+          <source>Add to SpeedDial</source>
+          <target state="new">Add to SpeedDial</target>
+        </trans-unit>
+        <trans-unit id="Resources\BackgroundLink\Content" translate="yes" xml:space="preserve">
+          <source>Change Background</source>
+          <target state="new">Change Background</target>
+        </trans-unit>
+        <trans-unit id="Resources\Cancel" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="Resources\About" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <target state="new">About</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

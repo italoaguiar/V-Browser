@@ -1,0 +1,546 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PriInfo>
+  <PriHeader>
+    <WindowsEnvironment checksum="0" version="1.0" />
+    <AutoMerge>false</AutoMerge>
+  </PriHeader>
+  <QualifierInfo>
+    <Qualifiers>
+      <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="EN" name="Language" />
+      <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+      <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+    </Qualifiers>
+    <QualifierSets>
+      <QualifierSet index="1">
+        <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="EN" name="Language" />
+      </QualifierSet>
+      <QualifierSet index="2">
+        <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+      </QualifierSet>
+      <QualifierSet index="3">
+        <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+      </QualifierSet>
+    </QualifierSets>
+    <Decisions>
+      <Decision index="1">
+        <QualifierSet index="2">
+          <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+        </QualifierSet>
+        <QualifierSet index="3">
+          <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+        </QualifierSet>
+      </Decision>
+    </Decisions>
+  </QualifierInfo>
+  <ResourceMap name="V-Browser" primary="true">
+    <VersionInfo version="1.0" />
+    <ResourceMapSubtree index="1" name="Resources">
+      <NamedResource index="1" name="Warning" uri="ms-resource://V-Browser/Resources/Warning">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Advertencia</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Aviso</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="SearchBox\Text" uri="ms-resource://V-Browser/Resources/SearchBox\Text">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Buscar en el web</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Pesquisar na web</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="TXTBGDescription\Text" uri="ms-resource://V-Browser/Resources/TXTBGDescription\Text">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Utilice un fondo existente.</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Use um plano de fundo existente.</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="TXTBGURL\Text" uri="ms-resource://V-Browser/Resources/TXTBGURL\Text">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Mediante una dirección URL</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Usando uma URL</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="TXTChangeBackground\Text" uri="ms-resource://V-Browser/Resources/TXTChangeBackground\Text">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Cambiar fondo</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Alterar plano de fundo</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="Privacy" uri="ms-resource://V-Browser/Resources/Privacy">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Política de privacidad</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Política de privacidade</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="LaunchFileError" uri="ms-resource://V-Browser/Resources/LaunchFileError">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>No se pudo encontrar el vídeo descargado. Asegúrese de que su antivirus no está analizando el archivo.</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Não foi possível encontrar o vídeo baixado. Certifique-se de que seu antivírus não é analisar o arquivo.</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="IncompatibleFile" uri="ms-resource://V-Browser/Resources/IncompatibleFile">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Este archivo no se puede ver en el V-Browser.</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Esse arquivo não pode ser exibido no V-Browser.</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="FileType\Text" uri="ms-resource://V-Browser/Resources/FileType\Text">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>tipo</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>tipo</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="FileName\Text" uri="ms-resource://V-Browser/Resources/FileName\Text">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>nombre de archivo</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>nome do arquivo</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="DownloadSuccessMessage" uri="ms-resource://V-Browser/Resources/DownloadSuccessMessage">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>La descarga está disponible en el Administrador de descargas.</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>O download está disponível no Gerenciador de download.</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="DownloadSuccess" uri="ms-resource://V-Browser/Resources/DownloadSuccess">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Descarga completa</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Download concluído</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="DownloadManager\Text" uri="ms-resource://V-Browser/Resources/DownloadManager\Text">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Administrador de descargas</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Gerenciador de download</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="DownloadFile" uri="ms-resource://V-Browser/Resources/DownloadFile">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Descargar archivo</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Baixar arquivo</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="DownloadErrorMessage" uri="ms-resource://V-Browser/Resources/DownloadErrorMessage">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Se ha producido un error al intentar descargar este archivo.</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Ocorreu um erro durante a tentativa de baixar esse arquivo.</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="DownloadError" uri="ms-resource://V-Browser/Resources/DownloadError">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>No se pudo descargar</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Falha no download</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="DefaultBrowser" uri="ms-resource://V-Browser/Resources/DefaultBrowser">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Abrir el explorador predeterminado en</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Abrir no navegador padrão</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="Delete\Text" uri="ms-resource://V-Browser/Resources/Delete\Text">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Eliminar</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Excluir</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="CloseTab\Text" uri="ms-resource://V-Browser/Resources/CloseTab\Text">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Cierre esta ficha</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Feche esta guia</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="AddThumbSpeedDial\Text" uri="ms-resource://V-Browser/Resources/AddThumbSpeedDial\Text">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Agregar a marcado rápido</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Adicionar à discagem rápida</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="BackgroundLink\Content" uri="ms-resource://V-Browser/Resources/BackgroundLink\Content">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Cambiar fondo</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Alterar plano de fundo</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="Cancel" uri="ms-resource://V-Browser/Resources/Cancel">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Cancelar</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Cancelar</Value>
+        </Candidate>
+      </NamedResource>
+      <NamedResource index="1" name="About" uri="ms-resource://V-Browser/Resources/About">
+        <Decision index="1">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+        </Decision>
+        <Candidate type="String">
+          <QualifierSet index="2">
+            <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+          </QualifierSet>
+          <Value>Acerca de</Value>
+        </Candidate>
+        <Candidate type="String">
+          <QualifierSet index="3">
+            <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+          </QualifierSet>
+          <Value>Sobre</Value>
+        </Candidate>
+      </NamedResource>
+    </ResourceMapSubtree>
+  </ResourceMap>
+</PriInfo>

@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="4338Epic94.V-Browser" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN, EN-GB, EN-US</Language>
+			<Scale>100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://4338Epic94.V-Browser/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Downloads.xbf" uri="ms-resource://4338Epic94.V-Browser/Files/Downloads.xbf">
+				<Candidate type="Path">
+					<Value>Downloads.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="File.xbf" uri="ms-resource://4338Epic94.V-Browser/Files/File.xbf">
+				<Candidate type="Path">
+					<Value>File.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://4338Epic94.V-Browser/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="V-Browser.xr.xml" uri="ms-resource://4338Epic94.V-Browser/Files/V-Browser.xr.xml">
+				<Candidate type="Path">
+					<Value>V-Browser.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="Add.png" uri="ms-resource://4338Epic94.V-Browser/Files/Assets/Add.png">
+					<Candidate type="Path">
+						<Value>Assets\Add.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://4338Epic94.V-Browser/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://4338Epic94.V-Browser/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://4338Epic94.V-Browser/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://4338Epic94.V-Browser/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="video-file-icon.png" uri="ms-resource://4338Epic94.V-Browser/Files/Assets/video-file-icon.png">
+					<Candidate type="Path">
+						<Value>Assets\video-file-icon.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://4338Epic94.V-Browser/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Common">
+				<NamedResource name="StandardStyles.xbf" uri="ms-resource://4338Epic94.V-Browser/Files/Common/StandardStyles.xbf">
+					<Candidate type="Path">
+						<Value>Common\StandardStyles.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Controls">
+				<NamedResource name="Navigator.xbf" uri="ms-resource://4338Epic94.V-Browser/Files/Controls/Navigator.xbf">
+					<Candidate type="Path">
+						<Value>Controls\Navigator.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SpeedDial.xbf" uri="ms-resource://4338Epic94.V-Browser/Files/Controls/SpeedDial.xbf">
+					<Candidate type="Path">
+						<Value>Controls\SpeedDial.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Tab.xbf" uri="ms-resource://4338Epic94.V-Browser/Files/Controls/Tab.xbf">
+					<Candidate type="Path">
+						<Value>Controls\Tab.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Html">
+				<ResourceMapSubtree name="img">
+					<NamedResource name="AcheProvasTile.png" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/AcheProvasTile.png">
+						<Candidate type="Path">
+							<Value>Html\img\AcheProvasTile.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Bing-logo.png" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/Bing-logo.png">
+						<Candidate type="Path">
+							<Value>Html\img\Bing-logo.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="dailymotion-logo.png" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/dailymotion-logo.png">
+						<Candidate type="Path">
+							<Value>Html\img\dailymotion-logo.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="facebook-logo.jpg" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/facebook-logo.jpg">
+						<Candidate type="Path">
+							<Value>Html\img\facebook-logo.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Google-logo.jpg" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/Google-logo.jpg">
+						<Candidate type="Path">
+							<Value>Html\img\Google-logo.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logogv.png" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/logogv.png">
+						<Candidate type="Path">
+							<Value>Html\img\logogv.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="seamless_paper_texture.png" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/seamless_paper_texture.png">
+						<Candidate type="Path">
+							<Value>Html\img\seamless_paper_texture.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="twitter.png" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/twitter.png">
+						<Candidate type="Path">
+							<Value>Html\img\twitter.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="vimeo_logo.jpg" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/vimeo_logo.jpg">
+						<Candidate type="Path">
+							<Value>Html\img\vimeo_logo.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="W1.jpg" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/W1.jpg">
+						<Candidate type="Path">
+							<Value>Html\img\W1.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="W2.jpg" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/W2.jpg">
+						<Candidate type="Path">
+							<Value>Html\img\W2.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="W3.jpg" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/W3.jpg">
+						<Candidate type="Path">
+							<Value>Html\img\W3.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="W4.jpg" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/W4.jpg">
+						<Candidate type="Path">
+							<Value>Html\img\W4.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="W5.jpg" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/W5.jpg">
+						<Candidate type="Path">
+							<Value>Html\img\W5.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="wiki-logo.png" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/wiki-logo.png">
+						<Candidate type="Path">
+							<Value>Html\img\wiki-logo.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="yahoo.png" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/yahoo.png">
+						<Candidate type="Path">
+							<Value>Html\img\yahoo.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="YouTube_logo.png" uri="ms-resource://4338Epic94.V-Browser/Files/Html/img/YouTube_logo.png">
+						<Candidate type="Path">
+							<Value>Html\img\YouTube_logo.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="speed dial">
+					<NamedResource name="index.html" uri="ms-resource://4338Epic94.V-Browser/Files/Html/speed%20dial/index.html">
+						<Candidate qualifiers="Language-EN" isDefault="true" type="Path">
+							<Value>Html\en\speed dial\index.html</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Microsoft.Advertising.WinRT.UI">
+				<NamedResource name="AdSettingsFlyout.xbf" uri="ms-resource://4338Epic94.V-Browser/Files/Microsoft.Advertising.WinRT.UI/AdSettingsFlyout.xbf">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bootstrap.html" uri="ms-resource://4338Epic94.V-Browser/Files/Microsoft.Advertising.WinRT.UI/bootstrap.html">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.WinRT.UI\bootstrap.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mraidApi.html" uri="ms-resource://4338Epic94.V-Browser/Files/Microsoft.Advertising.WinRT.UI/mraidApi.html">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.WinRT.UI\mraidApi.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ormma.js" uri="ms-resource://4338Epic94.V-Browser/Files/Microsoft.Advertising.WinRT.UI/ormma.js">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.WinRT.UI\ormma.js</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://4338Epic94.V-Browser/Files/Microsoft.Advertising.WinRT.UI/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MicrosoftAdvertising">
+				<ResourceMapSubtree name="IntelliSense">
+					<NamedResource name="AdErrorEventArgs.xml" uri="ms-resource://4338Epic94.V-Browser/Files/MicrosoftAdvertising/IntelliSense/AdErrorEventArgs.xml">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="Path">
+							<Value>MicrosoftAdvertising\IntelliSense\en-US\AdErrorEventArgs.xml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ErrorCode.xml" uri="ms-resource://4338Epic94.V-Browser/Files/MicrosoftAdvertising/IntelliSense/ErrorCode.xml">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="Path">
+							<Value>MicrosoftAdvertising\IntelliSense\en-US\ErrorCode.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MyToolkit.Extended">
+				<NamedResource name="MyToolkit.Extended.xr.xml" uri="ms-resource://4338Epic94.V-Browser/Files/MyToolkit.Extended/MyToolkit.Extended.xr.xml">
+					<Candidate type="Path">
+						<Value>MyToolkit.Extended\MyToolkit.Extended.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Controls">
+					<NamedResource name="DatePicker.xbf" uri="ms-resource://4338Epic94.V-Browser/Files/MyToolkit.Extended/Controls/DatePicker.xbf">
+						<Candidate type="Path">
+							<Value>MyToolkit.Extended\Controls\DatePicker.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TimePicker.xbf" uri="ms-resource://4338Epic94.V-Browser/Files/MyToolkit.Extended/Controls/TimePicker.xbf">
+						<Candidate type="Path">
+							<Value>MyToolkit.Extended\Controls\TimePicker.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="generic.xbf" uri="ms-resource://4338Epic94.V-Browser/Files/MyToolkit.Extended/Themes/generic.xbf">
+						<Candidate type="Path">
+							<Value>MyToolkit.Extended\Themes\generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="UI">
+					<ResourceMapSubtree name="Popups">
+						<NamedResource name="ListPickerBox.xbf" uri="ms-resource://4338Epic94.V-Browser/Files/MyToolkit.Extended/UI/Popups/ListPickerBox.xbf">
+							<Candidate type="Path">
+								<Value>MyToolkit.Extended\UI\Popups\ListPickerBox.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="MicrosoftAdvertising">
+			<ResourceMapSubtree name="ExceptionMessages">
+				<NamedResource name="AdGameComponentAlreadyInitialized" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/AdGameComponentAlreadyInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdGameComponent has already been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdGameComponentHasNotBeenInitialized" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/AdGameComponentHasNotBeenInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdGameComponent has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdManagerNotInitialized" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/AdManagerNotInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdMangerAlreadyInitialized" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/AdMangerAlreadyInitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdManager has already been initialized with a different ApplicationId.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdUnitIdAlreadySet" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/AdUnitIdAlreadySet">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdUnitId has already been set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdUnitIdIsRequired" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/AdUnitIdIsRequired">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>adUnitId is required.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AllActionsMalformed" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/AllActionsMalformed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ApplicationIdIsRequired" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/ApplicationIdIsRequired">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>applicationId is required.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AssetNodeIsSingleEntry" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/AssetNodeIsSingleEntry">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutoRefreshStateAlreadySet" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/AutoRefreshStateAlreadySet">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh state has already been set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BannerInformationNotFound" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/BannerInformationNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenAdControlUninitialized" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenAdControlUninitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is uninitialised.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenAdIsEngaged" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenAdIsEngaged">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is engaged.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenNotVisible" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenNotVisible">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is not visible to the user.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenSuspended" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/CannotRefreshWhenSuspended">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is suspended.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CapabilitiesMissing" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/CapabilitiesMissing">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ClickToRichUrlWithoutReferralNotWellFormed" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/ClickToRichUrlWithoutReferralNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ClickToRichUrlWithReferralNotWellFormed" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/ClickToRichUrlWithReferralNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CouldNotFindProperty" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/CouldNotFindProperty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DecodingEscapedCharactersFailed" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/DecodingEscapedCharactersFailed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DidNotParseToEnd" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/DidNotParseToEnd">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ExtractedPropertyNotAString" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/ExtractedPropertyNotAString">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FontDoesNotSupportCharacter" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/FontDoesNotSupportCharacter">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GeoDataNotAvailable" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/GeoDataNotAvailable">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IncompleteInit" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/IncompleteInit">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ApplicationId and AdUnitId need to be set before using this control.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InternalError" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/InternalError">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Internal error encountered.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAction" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/InvalidAction">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid action param: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidDataFormat" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/InvalidDataFormat">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidJsonResponse" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/InvalidJsonResponse">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidLocation" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/InvalidLocation">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The Location value is out of range.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidParameterMissingItemSeparator" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/InvalidParameterMissingItemSeparator">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidRefresh" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/InvalidRefresh">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh cannot be used when auto refresh is enabled.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidSize" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/InvalidSize">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The rectangle dimensions do not meet the minimum size requirements ({0}x{1}).</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonDoesntStartWithObjectOrArray" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/JsonDoesntStartWithObjectOrArray">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonIntegerParseOverflow" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/JsonIntegerParseOverflow">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonNodeIsNotADictionary" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/JsonNodeIsNotADictionary">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonResponseTypeInvalid" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/JsonResponseTypeInvalid">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonStringValueNotWellFormed" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/JsonStringValueNotWellFormed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LoadContentNotCalled" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/LoadContentNotCalled">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>LoadContent has not been called before Update/Draw.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NonPremiumWithNoApplicationId" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/NonPremiumWithNoApplicationId">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Non-premium ads require the manager to be created with a non-null, non-empty applicationID.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ObjectShouldHaveNoElements" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/ObjectShouldHaveNoElements">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParameterIsLessThanPermittedLength" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/ParameterIsLessThanPermittedLength">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParameterNullOrEmpty" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/ParameterNullOrEmpty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParseStackNotEmpty" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/ParseStackNotEmpty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParseStringNotANumber" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/ParseStringNotANumber">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RectangleHeightNotSufficient" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/RectangleHeightNotSufficient">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshCalledToSoon" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/RefreshCalledToSoon">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called more than once every {0} seconds.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshWhileEngaged" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/RefreshWhileEngaged">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Manual refresh not permitted while ad is engaged.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshWhileRequestInProgress" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/RefreshWhileRequestInProgress">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh was triggered but another request is already in progress.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RequestDataHasNullDataItem" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/RequestDataHasNullDataItem">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>httpRequestData or its URL is null.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RichMediaInfoNotFound" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/RichMediaInfoNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StringContainsInvalidEscapeSequence" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/StringContainsInvalidEscapeSequence">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextAdTitleNotFound" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/TextAdTitleNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TooManyImpressionUrls" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/TooManyImpressionUrls">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnableToFitText" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/UnableToFitText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unable to fit text in the given space.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnicodeCharacterTruncated" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/UnicodeCharacterTruncated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownAdType" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/UnknownAdType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownJsonToken" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/UnknownJsonToken">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownRichMediaMimeType" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/ExceptionMessages/UnknownRichMediaMimeType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown rich media mime type recieved: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="UIStrings">
+				<NamedResource name="AdSettings_CommandText" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/UIStrings/AdSettings_CommandText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Microsoft Advertising</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Microsoft Advertising</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Microsoft Advertising</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptedOut_Message1" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message1">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You are currently opted out of personalized advertising from Microsoft. Click</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>You have opted out of personalised advertising from Microsoft. Click </Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Tha thu a' diùltadh sanasachd phearsantaichte o Microsoft an-dràsta fhèin. Briog </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptedOut_Message2" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message2">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>to learn more about your choices.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value> to learn more about your choices.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value> airson barrachd fiosrachaidh air na roghainnean.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptedOut_Message_Here" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptedOut_Message_Here">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>here</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>here</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>an-seo</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptInSwitch_Header" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_Header">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Let Microsoft Advertising use my information to personalize ads in this app.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Let Microsoft Advertising use my information to personalise ads in this app.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Cleachdaidh Microsoft Advertising am fiosrachadh agam ach am faigh mi sanasachd phearsantaichte san aplacaid seo.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptInSwitch_Off" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_Off">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>No</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Chan eil</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_OptInSwitch_On" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_OptInSwitch_On">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Yes</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Yes</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Tha</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_Privacy" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_Privacy">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Privacy Statement</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Privacy Statement</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Aithris na prìobhaideachd</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SectionName" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SectionName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Advertising settings</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Advertising Settings</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Roghainnean na sanasachd</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SignInPrompt1" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt1">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You are currently signed out.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>You are currently signed out. </Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Chan eil thu clàraichte a-staigh an-dràsta fhèin. </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SignInPrompt2" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt2">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>to enable personalized advertising in this app.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value> to enable personalised advertising in this app.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value> airson sanasachd phearsantaichte a chur an comas san aplacaid seo.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SignInPrompt_SignIn" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt_SignIn">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Sign-in</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Sign in</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Clàraich a-steach</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_SignInPrompt_SignOut" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_SignInPrompt_SignOut">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Sign-out</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Sign out</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Clàraich a-mach</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_StatusUnknown_Message" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_StatusUnknown_Message">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Your Microsoft account information is currently unavailable.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Your Microsoft account information is currently unavailable.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Chan eil fiosrachadh a' chunntais Microsoft agad ri làimh an-dràsta fhèin.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdSettings_Flyout_Title" uri="ms-resource://4338Epic94.V-Browser/MicrosoftAdvertising/UIStrings/AdSettings_Flyout_Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Advertising</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Advertising</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Sanasachd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="About" uri="ms-resource://4338Epic94.V-Browser/Resources/About">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>About</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Cancel" uri="ms-resource://4338Epic94.V-Browser/Resources/Cancel">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cancel</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DefaultBrowser" uri="ms-resource://4338Epic94.V-Browser/Resources/DefaultBrowser">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Open in default Browser</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DownloadError" uri="ms-resource://4338Epic94.V-Browser/Resources/DownloadError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Download Failed</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DownloadErrorMessage" uri="ms-resource://4338Epic94.V-Browser/Resources/DownloadErrorMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An error occurred while trying to download this file.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DownloadFile" uri="ms-resource://4338Epic94.V-Browser/Resources/DownloadFile">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Download File</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DownloadSuccess" uri="ms-resource://4338Epic94.V-Browser/Resources/DownloadSuccess">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Download complete</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DownloadSuccessMessage" uri="ms-resource://4338Epic94.V-Browser/Resources/DownloadSuccessMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Your download is available in the download manager.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IncompatibleFile" uri="ms-resource://4338Epic94.V-Browser/Resources/IncompatibleFile">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>This file can not be viewed in v-browser.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LaunchFileError" uri="ms-resource://4338Epic94.V-Browser/Resources/LaunchFileError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Could not FIND the downloaded video. Make sure your antivirus is not parsing the file.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Privacy" uri="ms-resource://4338Epic94.V-Browser/Resources/Privacy">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Privacy Policy</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Warning" uri="ms-resource://4338Epic94.V-Browser/Resources/Warning">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Warning</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="AddThumbSpeedDial">
+				<NamedResource name="Text" uri="ms-resource://4338Epic94.V-Browser/Resources/AddThumbSpeedDial/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Add to SpeedDial</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BackgroundLink">
+				<NamedResource name="Content" uri="ms-resource://4338Epic94.V-Browser/Resources/BackgroundLink/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Change Background</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="CloseTab">
+				<NamedResource name="Text" uri="ms-resource://4338Epic94.V-Browser/Resources/CloseTab/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Close this tab</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Delete">
+				<NamedResource name="Text" uri="ms-resource://4338Epic94.V-Browser/Resources/Delete/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Delete</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DownloadManager">
+				<NamedResource name="Text" uri="ms-resource://4338Epic94.V-Browser/Resources/DownloadManager/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Download Manager</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="FileName">
+				<NamedResource name="Text" uri="ms-resource://4338Epic94.V-Browser/Resources/FileName/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>file name</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="FileType">
+				<NamedResource name="Text" uri="ms-resource://4338Epic94.V-Browser/Resources/FileType/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>type</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SearchBox">
+				<NamedResource name="Text" uri="ms-resource://4338Epic94.V-Browser/Resources/SearchBox/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Search the web</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="TXTBGDescription">
+				<NamedResource name="Text" uri="ms-resource://4338Epic94.V-Browser/Resources/TXTBGDescription/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Use an existing background.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="TXTBGURL">
+				<NamedResource name="Text" uri="ms-resource://4338Epic94.V-Browser/Resources/TXTBGURL/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Using a URL</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="TXTChangeBackground">
+				<NamedResource name="Text" uri="ms-resource://4338Epic94.V-Browser/Resources/TXTChangeBackground/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Change Background</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

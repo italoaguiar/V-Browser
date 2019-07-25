@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-sr-cyrl"
+"ResourceDimensions"		"language-sr-cyrl-rs"
+"ResourceDimensions"		"language-sr-cyrl-ba"
+
+[Files]
+"C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\obj\Release\split.language-sr-cyrl.pri"			"resources.pri"

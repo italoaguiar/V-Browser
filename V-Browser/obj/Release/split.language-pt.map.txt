@@ -1,0 +1,9 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-pt"
+"ResourceDimensions"		"language-pt"
+"ResourceDimensions"		"language-pt-pt"
+"ResourceDimensions"		"language-pt-br"
+
+[Files]
+"C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\obj\Release\split.language-pt.pri"			"resources.pri"
+"C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\obj\Release\PackageLayout\Html\pt\speed dial\index.html"			"Html\pt\speed dial\index.html"

@@ -1,0 +1,4 @@
+obj\Release\filemap.pri
+obj\Release\filemap.map.txt
+obj\Release\filemap.language-pt.pri
+obj\Release\filemap.language-pt.map.txt

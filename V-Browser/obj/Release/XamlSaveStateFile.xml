@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\italo\documents\visual studio 2013\projects\v-browser\v-browser\obj\release\intermediatexaml\v-browser.exe" HashGuid="e9ebee04-9106-9283-2a87-35f14a047cb3" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\msadvertisingxaml\8.1\references\commonconfiguration\neutral\microsoft.advertising.winrt.ui.winmd" HashGuid="e2e1868b-6ac9-03b1-ca83-3c4740a6cdfb" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\msadvertisingxaml\8.1\references\commonconfiguration\neutral\microsoftadvertising.winmd" HashGuid="ff7acc79-1a32-fd80-27f3-998d24e2b25e" />
+    <ReferenceAssembly PathName="c:\users\italo\documents\visual studio 2013\projects\v-browser\packages\mytoolkit.2.3.7.0\lib\portable-net45+wp8+win8+wpa81\mytoolkit.dll" HashGuid="b8cd591c-6c1b-b4d9-b08c-1ed609dadb71" />
+    <ReferenceAssembly PathName="c:\users\italo\documents\visual studio 2013\projects\v-browser\packages\mytoolkit.extended.2.3.7.0\lib\portable-wpa81+win8\mytoolkit.extended.dll" HashGuid="bd55f36e-5c8e-4b3f-6689-6dcce27eb531" />
+    <ReferenceAssembly PathName="c:\users\italo\documents\visual studio 2013\projects\v-browser\packages\newtonsoft.json.6.0.5\lib\netcore45\newtonsoft.json.dll" HashGuid="e70f704a-5345-3796-c57b-a99765c2073e" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

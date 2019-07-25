@@ -1,0 +1,176 @@
+<html>
+<head>
+    <title>Speed Dial</title>
+    <script type="text/javascript">
+    function define_bg() {
+        cookie = getCookie("epc_bg");
+        if (cookie) {
+            document.getElementById("bg").style.backgroundImage = "url('" + cookie + "')";
+            document.getElementById("bg").style.backgroundSize = "cover";
+
+        }
+
+    }
+    function ramdomBG() {
+        backg("../../img/W" + Math.floor((Math.random() * 5) + 1) + ".jpg");
+    }
+    function backg(bg_url) {
+
+        if (name != null) {
+            document.getElementById("bg").style.backgroundImage = "url('" + bg_url + "')";
+            document.getElementById("bg").style.backgroundSize = "cover";
+            setCookie('epc_bg', bg_url, 90);
+        }
+    }
+    function setCookie(cookie_name, cookie_value, expire_in_days) {
+        var cookie_expire = "";
+
+        if (expire_in_days != null) {
+            var expire = new Date();
+            expire.setTime(expire.getTime() + 1000 * 60 * 60 * 24 * parseInt(expire_in_days));
+            cookie_expire = "; expires=" + expire.toGMTString();
+        }
+
+        document.cookie = escape(cookie_name) + "=" + escape(cookie_value) + cookie_expire;
+    }
+    function getCookie(cookie_name) {
+        if (!document.cookie.match(eval("/" + escape(cookie_name) + "=/"))) {
+            return false;
+        }
+
+        return unescape(document.cookie.replace(eval("/^.*?" + escape(cookie_name) + "=([^\\s;]*).*$/"), "$1"));
+    }
+    </script>
+<style>
+body{
+background: url('../../img/W1.jpg');
+background-size:cover;
+}
+/* search form 
+-------------------------------------- */
+.searchform {
+ display: inline-block;
+ zoom: 1; /* ie7 hack for display:inline-block */
+ *display: inline;
+ border: solid 1px #d2d2d2;
+ padding: 3px 5px;
+ 
+ -webkit-border-radius: 2em;
+ -moz-border-radius: 2em;
+ border-radius: 2em;
+ 
+ -webkit-box-shadow: 0 1px 0px rgba(0,0,0,.1);
+ -moz-box-shadow: 0 1px 0px rgba(0,0,0,.1);
+ box-shadow: 0 1px 0px rgba(0,0,0,.1);
+ 
+ background: #f1f1f1;
+ background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#ededed));
+ background: -moz-linear-gradient(top,  #fff,  #ededed);
+ filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ededed'); /* ie7 */
+}
+.searchform input {
+ font: normal 12px/100% Arial, Helvetica, sans-serif;
+}
+.searchform .searchfield {
+ background: #fff;
+ padding: 6px 6px 6px 8px;
+ width: 202px;
+ border: solid 1px #bcbbbb;
+ outline: none;
+ 
+ -webkit-border-radius: 2em;
+ -moz-border-radius: 2em;
+ border-radius: 2em;
+ 
+ -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,.2);
+ -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.2);
+ box-shadow: inset 0 1px 2px rgba(0,0,0,.2);
+}
+.searchform .searchbutton {
+ color: #fff;
+ border: solid 1px #494949;
+ font-size: 11px;
+ height: 27px;
+ width: 27px;
+ text-shadow: 0 1px 1px rgba(0,0,0,.6);
+ 
+ -webkit-border-radius: 2em;
+ -moz-border-radius: 2em;
+ border-radius: 2em;
+ 
+ background: #5f5f5f;
+ background: -webkit-gradient(linear, left top, left bottom, from(#9e9e9e), to(#454545));
+ background: -moz-linear-gradient(top,  #9e9e9e,  #454545);
+ filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#9e9e9e', endColorstr='#454545'); /* ie7 */
+}
+.tile{
+width:250px; 
+height: 150px; 
+background-size: 200px 150px;
+background-attachment: scroll;
+float: left;
+border-radius: 5px;
+border: 5px solid transparent;
+margin: 10px;
+box-shadow: 0px 1px 4px 0px rgba(50, 50, 50, 0.49);
+}
+.tile:hover{
+border: 5px solid #7A7A7A;
+cursor: pointer;
+}
+.tile img{
+width:100%;
+height:100%;
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+#footer a{
+    margin: 15px;
+}
+</style>
+</head>
+<body id="bg" onload="define_bg()">
+    <div style="width:350px; margin:0 auto; margin-top:50px; margin-bottom: 20px;">
+        <form class="searchform" action="https://www.google.com.br/search">
+            <input id="q" style="width:300px;" name="q" size="70" type="text" class="searchfield" value="Pesquisar..." onfocus="if (this.value == 'Pesquisar...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Pesquisar...';}" />
+        </form>
+    </div>
+    <div style="width:850px; height:600px; margin:0 auto;">
+        <div class="tile" onclick="location.href='http://www.google.com'">
+            <img src="../../img/Google-logo.jpg" />
+        </div>
+        <div class="tile" onclick="location.href='http://www.facebook.com'">
+            <img src="../../img/facebook-logo.jpg" />
+        </div>
+        <div class="tile" onclick="location.href='http://www.youtube.com'">
+            <img src="../../img/YouTube_logo.png" />
+        </div>
+        <div class="tile" onclick="location.href='http://www.vimeo.com'">
+            <img src="../../img/vimeo_logo.jpg" />
+        </div>
+        <div class="tile" onclick="location.href='http://www.dailymotion.com'">
+            <img src="../../img/dailymotion-logo.png" />
+        </div>
+        <div class="tile" onclick="location.href='http://www.yahoo.com'">
+            <img src="../../img/yahoo.png" />
+        </div>
+        <div class="tile" onclick="location.href='http://www.twitter.com'">
+            <img src="../../img/twitter.png" />
+        </div>
+        <div class="tile" onclick="location.href='http://www.bing.com'">
+            <img src="../../img/Bing-logo.png" />
+        </div>
+        <div class="tile" onclick="location.href='http://www.wikipedia.org'">
+            <img src="../../img/wiki-logo.png" />
+        </div>
+
+
+    </div>
+    <div id="footer">
+        <a href="#" onclick="ramdomBG()">Change Background</a>
+    </div>
+</body>
+</html>

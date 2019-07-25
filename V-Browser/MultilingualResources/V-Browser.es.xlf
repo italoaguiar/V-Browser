@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es" original="V-Browser_Multilingual.prilog.xml" tool-id="MultilingualAppToolkit" product-name="V-Browser" product-version="1.0.0.0" build-num="0">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="3.1.1085.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="Resources">
+        <trans-unit id="Resources\Warning" translate="yes" xml:space="preserve">
+          <source>Warning</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Advertencia</target>
+        </trans-unit>
+        <trans-unit id="Resources\SearchBox\Text" translate="yes" xml:space="preserve">
+          <source>Search the web</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Buscar en el web</target>
+        </trans-unit>
+        <trans-unit id="Resources\TXTBGDescription\Text" translate="yes" xml:space="preserve">
+          <source>Use an existing background.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Utilice un fondo existente.</target>
+        </trans-unit>
+        <trans-unit id="Resources\TXTBGURL\Text" translate="yes" xml:space="preserve">
+          <source>Using a URL</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Mediante una dirección URL</target>
+        </trans-unit>
+        <trans-unit id="Resources\TXTChangeBackground\Text" translate="yes" xml:space="preserve">
+          <source>Change Background</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Cambiar fondo</target>
+        </trans-unit>
+        <trans-unit id="Resources\Privacy" translate="yes" xml:space="preserve">
+          <source>Privacy Policy</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Política de privacidad</target>
+        </trans-unit>
+        <trans-unit id="Resources\LaunchFileError" translate="yes" xml:space="preserve">
+          <source>Could not FIND the downloaded video. Make sure your antivirus is not parsing the file.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">No se pudo encontrar el vídeo descargado. Asegúrese de que su antivirus no está analizando el archivo.</target>
+        </trans-unit>
+        <trans-unit id="Resources\IncompatibleFile" translate="yes" xml:space="preserve">
+          <source>This file can not be viewed in v-browser.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Este archivo no se puede ver en el V-Browser.</target>
+        </trans-unit>
+        <trans-unit id="Resources\FileType\Text" translate="yes" xml:space="preserve">
+          <source>type</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">tipo</target>
+        </trans-unit>
+        <trans-unit id="Resources\FileName\Text" translate="yes" xml:space="preserve">
+          <source>file name</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">nombre de archivo</target>
+        </trans-unit>
+        <trans-unit id="Resources\DownloadSuccessMessage" translate="yes" xml:space="preserve">
+          <source>Your download is available in the download manager.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">La descarga está disponible en el Administrador de descargas.</target>
+        </trans-unit>
+        <trans-unit id="Resources\DownloadSuccess" translate="yes" xml:space="preserve">
+          <source>Download complete</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Descarga completa</target>
+        </trans-unit>
+        <trans-unit id="Resources\DownloadManager\Text" translate="yes" xml:space="preserve">
+          <source>Download Manager</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Administrador de descargas</target>
+        </trans-unit>
+        <trans-unit id="Resources\DownloadFile" translate="yes" xml:space="preserve">
+          <source>Download File</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Descargar archivo</target>
+        </trans-unit>
+        <trans-unit id="Resources\DownloadErrorMessage" translate="yes" xml:space="preserve">
+          <source>An error occurred while trying to download this file.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Se ha producido un error al intentar descargar este archivo.</target>
+        </trans-unit>
+        <trans-unit id="Resources\DownloadError" translate="yes" xml:space="preserve">
+          <source>Download Failed</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">No se pudo descargar</target>
+        </trans-unit>
+        <trans-unit id="Resources\DefaultBrowser" translate="yes" xml:space="preserve">
+          <source>Open in default Browser</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Abrir el explorador predeterminado en</target>
+        </trans-unit>
+        <trans-unit id="Resources\Delete\Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Eliminar</target>
+        </trans-unit>
+        <trans-unit id="Resources\CloseTab\Text" translate="yes" xml:space="preserve">
+          <source>Close this tab</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Cierre esta ficha</target>
+        </trans-unit>
+        <trans-unit id="Resources\AddThumbSpeedDial\Text" translate="yes" xml:space="preserve">
+          <source>Add to SpeedDial</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Agregar a marcado rápido</target>
+        </trans-unit>
+        <trans-unit id="Resources\BackgroundLink\Content" translate="yes" xml:space="preserve">
+          <source>Change Background</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Cambiar fondo</target>
+        </trans-unit>
+        <trans-unit id="Resources\Cancel" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Cancelar</target>
+        </trans-unit>
+        <trans-unit id="Resources\About" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Acerca de</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

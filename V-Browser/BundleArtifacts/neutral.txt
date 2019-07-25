@@ -1,0 +1,4 @@
+MainPackage=C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\bin\Release\V-Browser_1.1.0.7_Bundle\V-Browser_1.1.0.7_AnyCPU.appx
+SymbolPackage=C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\AppPackages\V-Browser_1.1.0.7_Test\V-Browser_1.1.0.7_AnyCPU.appxsym
+ResourcePack=C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\bin\Release\V-Browser_1.1.0.7_Bundle\V-Browser_1.1.0.7_language-es.appx
+ResourcePack=C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\bin\Release\V-Browser_1.1.0.7_Bundle\V-Browser_1.1.0.7_language-pt.appx

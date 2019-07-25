@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.language-pt"
+"ResourceDimensions"		"language-pt"
+
+[Files]
+"C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\obj\Release\filemap.language-pt.pri"			"resources.pri"
+"C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\obj\Release\PackageLayout\Html\pt\speed dial\index.html"			"Html\pt\speed dial\index.html"

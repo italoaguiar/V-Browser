@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-tg-cyrl"
+"ResourceDimensions"		"language-tg-cyrl-tj"
+
+[Files]
+"C:\Users\ITALO\Documents\Visual Studio 2013\Projects\V-Browser\V-Browser\obj\Release\split.language-tg-cyrl.pri"			"resources.pri"

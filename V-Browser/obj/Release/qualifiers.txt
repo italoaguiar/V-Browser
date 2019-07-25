@@ -1,0 +1,4 @@
+Scale=100
+Language=EN
+Language=PT
+Language=EN-US
